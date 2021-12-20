@@ -350,7 +350,7 @@ section {
   }
 }
 @media (min-width: 768px) {
-  .contact .contact-phone {
+  .contact .contact-address {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
   }
